@@ -1,2 +1,2 @@
 // the hello world program
-console.log('Hello World');
+console.log('Hello you cannot master js');
