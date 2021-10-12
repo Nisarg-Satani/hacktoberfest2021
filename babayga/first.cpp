@@ -3,7 +3,7 @@
 #include <iostream>
 
 int main() {
-    std::cout << "The iostream doesn't work that way!";
+    std::cout << "Hello World!";
     return 0;
 }
 
